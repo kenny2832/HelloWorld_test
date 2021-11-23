@@ -5,6 +5,7 @@ public class HelloWorld {
 
         System.out.println("Good morning");
         System.out.println("Good evening");
+        System.out.println("Good afternoon");
 
 
 
